@@ -1,0 +1,23 @@
+{
+  "name": "truelayer_openbanking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilocutrim/TrueLayer_openbanking.git"
+  },
+  "author": "danilo cutrim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilocutrim/TrueLayer_openbanking/issues"
+  },
+  "homepage": "https://github.com/danilocutrim/TrueLayer_openbanking#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
